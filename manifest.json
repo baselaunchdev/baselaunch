@@ -1,0 +1,15 @@
+﻿{
+  "name": "BaseLaunch",
+  "version": "1.0.0",
+  "description": "Launch & discover the best Base mini apps",
+  "icon": "https://baselaunch.app/icon.png",
+  "homeUrl": "https://baselaunch.app",
+  "imageUrl": "https://baselaunch.app/preview.png",
+  "splashImageUrl": "https://baselaunch.app/splash.png",
+  "splashBackgroundColor": "#0052FF",
+  "button": {
+    "title": "Launch"
+  },
+  "category": "productivity",
+  "miniAppUrl": "https://baselaunch.app"
+}
